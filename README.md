@@ -9,11 +9,13 @@ Inside this repository You will find:
 * wikicfp.v1.2010.xml
 
 
-Script is the file, written in python for reading the xml file and for creating the script for the database;
+Script is written in python and it's used for reading the xml file and producing the .sql file.
 
-the three xml file contains all the events taken from the web site http://www.wikicfp.com/.
+The three xml file contains all the events taken from the web site http://www.wikicfp.com/.
 
 We have compress the three xml in one file, called xml_final_file.xml (to big to store) and the script works on it 
 producing final.sql.
 
+
+The wikicfp.v1.2010.xml is not currently stored. 
 
