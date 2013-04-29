@@ -1,7 +1,7 @@
 Recommender System for Scientific's Events
 ====
 
-Inside this repository, You will find:
+Inside this repository You will find:
 
 * script
 * wikicfp.v1.2008.xml
