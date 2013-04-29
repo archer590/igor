@@ -17,5 +17,5 @@ We have compress the three xml in one file, called xml_final_file.xml (to big to
 producing final.sql.
 
 
-The wikicfp.v1.2010.xml is not currently stored. 
+The wikicfp.v1.2010.xml is not available jet. Be patient.
 
